@@ -1,12 +1,12 @@
  # 🛍️ Fly Wings Sales Analysis
 
-1.[Live Report Link](#https://www.novypro.com/profile_about/sukrutha-neeradi-?Popup=memberProject&Data=1760955603328x933997276750236900)                
-2.[Project Objective](#project-objective)
+1.[Live Report Link](#Live-report-link)                
+2.[Project Objective](#project-objective) 
 3.[Dataset Background](#dataset-background) 
       - [Data Model](#data-model)        
 4.[Methodology](#methodology)
       - [Data Collection](#data-collection)  
-      - [Data Preparation & Cleaning](#data-preparation & cleaning) 
+      - [Data Preparation & Cleaning](#data-preparation-&-cleaning) 
       - [Data Modelling](#data-modelling)    
 5.[Measures (DAX)](#measures)     
 6.[Tools used ](#tools-used)    
@@ -18,7 +18,7 @@
 
 
 
-## [Business Insights 360 Live Report Link]()
+## [Business Insights 360 Live Report Link](##https://www.novypro.com/profile_about/sukrutha-neeradi-?Popup=memberProject&Data=1760955603328x933997276750236900)
 
 
 ## Project Objective
