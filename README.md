@@ -4,9 +4,9 @@
 2.[Project Objective](#project-objective)
 3.[Dataset Background](#dataset-background) 
       - [Data Model](#data-model)        
-4.Methodology (#methodology)
+4.[Methodology](#methodology)
       - [Data Collection](#data-collection)  
-      - [Data Preparation & Cleaning](#data-preparation and cleaning) 
+      - [Data Preparation & Cleaning](#data-preparation & cleaning) 
       - [Data Modelling](#data-modelling)    
 5.[Measures (DAX)](#measures)     
 6.[Tools used ](#tools-used)    
@@ -137,26 +137,6 @@ Business Questions:
 - Category Contribution(Column Chart).: Apparel dominated; accessories underperformed.
 - Quantity vs Avg Price Matrix: Showed trade-off between volume sellers vs. premium items.
 
-
-### Salesman Analysis
-
-Business Questions:
-
-- Who are the top and low-performing salespeople?
-
-**Insights:**
-
-- Performance Ranking(Bar Chart): Clear identification of best and underperforming salesmen.
-
-### Forecasting
-
-Business Questions:
-
-- What sales can be expected in the next 2 months?
-- How confident are these forecasts?
-	
-- Forecast: Sales projected to grow steadily in the upcoming 2 months.
-- Confidence Interval: Upper and lower bounds provided for planning under uncertainty.
 
 --------
 
