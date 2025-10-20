@@ -38,6 +38,7 @@
 -----
 
 ### Data Model
+<img width="1204" height="696" alt="data model of fly" src="https://github.com/user-attachments/assets/2c88c1ed-1f46-40c3-a343-202951807ae9" />
 
 
 
