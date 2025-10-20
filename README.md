@@ -149,11 +149,11 @@ Business Questions:
 
 ## Insights Deep Dive:
 
-1.Sales are increasing steadily month-on-month, but growth rate varies.
-2.Cash transactions dominate (~70%), credit sales form ~30%.
-3.A few salesmen contribute to the majority of sales → need to balance performance.
-4.Retention is decent, but new customer acquisition is low.
-5.Certain products drive majority sales; slow movers require discounts/promotions.
+1.Sales are increasing steadily month-on-month, but growth rate varies.    
+2.Cash transactions dominate (~70%), credit sales form ~30%.   
+3.A few salesmen contribute to the majority of sales → need to balance performance.   
+4.Retention is decent, but new customer acquisition is low.   
+5.Certain products drive majority sales; slow movers require discounts/promotions.   
 
 
 -----------
