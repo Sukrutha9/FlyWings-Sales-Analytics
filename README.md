@@ -16,9 +16,7 @@
 
 
 
-## [Fly Wings sales Live Report Link]
-
-https://www.novypro.com/profile_about/sukrutha-neeradi-?Popup=memberProject&Data=1760955603328x933997276750236900
+## [Fly Wings sales Live Report Link](#https://www.novypro.com/profile_about/sukrutha-neeradi-?Popup=memberProject&Data=1760955603328x933997276750236900)
 
 
 ## Project Objective
